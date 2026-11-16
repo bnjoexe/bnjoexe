@@ -3,25 +3,17 @@
 # What's up, rockstar? Welcome to my world! <img src="https://raw.githubusercontent.com/bnjoexe/bnjoexe/main/assets/GIF_2.gif" width="55" />
 **@bnjoexe ;** hi, my name is Benjo. i use he/him pronouns, a '01 (March) liner, an isfj, and i'm from Manila, Philippines. i speak English and Filipino, and i'm a working student.
 
-<br>
-
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="center" width="33%" style="border: none;">
-      <img src="./assets/Photo_1.jpg" width="220" height="220" style="object-fit: cover; border-radius: 8px;" />
-    </td>
-    <td align="center" width="33%" style="border: none;">
-      <img src="./assets/Photo_2.jpg" width="220" height="220" style="object-fit: cover; border-radius: 8px;" />
-    </td>
-    <td align="center" width="33%" style="border: none;">
-      <img src="./assets/Photo_3.jpg" width="220" height="220" style="object-fit: cover; border-radius: 8px;" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="./assets/Photo_1.jpg" width="220" height="220" style="border-radius: 8px;" />
+  <img src="./assets/Photo_2.jpg" width="220" height="220" style="border-radius: 8px;" />
+  <img src="./assets/Photo_3.jpg" width="220" height="220" style="border-radius: 8px;" />
+</div>
 
 <br>
 
 System.out.println("IT student by accident, " + "Rockstar by heart, " + "Full-time puyat.");
+
+<br>
 
 > <sub>**⚠️ DISCLAIMER:**</sub><br>
 > <sub>This is a **fictional character / roleplay account** created purely for creative writing and storytelling purposes. All events, campus rants, and interactions are part of a shared OC universe. Not affiliated with Choi Beomgyu or TOMORROW X TOGETHER or real-life individuals and institutions in any way.</sub>
