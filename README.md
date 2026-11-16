@@ -5,15 +5,15 @@
 
 <br>
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="33%" style="border: none;">
       <img src="./assets/Photo_1.jpg" width="220" height="220" style="object-fit: cover; border-radius: 8px;" />
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="33%" style="border: none;">
       <img src="./assets/Photo_2.jpg" width="220" height="220" style="object-fit: cover; border-radius: 8px;" />
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="33%" style="border: none;">
       <img src="./assets/Photo_3.jpg" width="220" height="220" style="object-fit: cover; border-radius: 8px;" />
     </td>
   </tr>
