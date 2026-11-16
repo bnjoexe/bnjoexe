@@ -65,8 +65,6 @@ I only accept OC accounts. Preferably with an intro, I like knowing who I’m we
 
 English/Filipino/Taglish are the languages used for updates and interactions. If that’s not something you’re comfortable with, this might not be the account for you.
 
-Strictly OC. Let’s keep everything in character.
-
 ---
 
 <div align="center">
