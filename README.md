@@ -68,5 +68,5 @@ English/Filipino/Taglish are the languages used for updates and interactions. If
 ---
 
 <div align="center">
-  <sub>est. 2025.02.27 • last updated 2026.11.16</sub>
+  <sub>est. 2025.01.19 • last updated 2026.11.16</sub>
 </div>
