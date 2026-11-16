@@ -48,7 +48,7 @@ This account leans heavily into storytelling. Expect long posts, ongoing arcs, a
 
 Most posts are part of continuous arcs with the friend group ([Zildj](https://www.facebook.com/share/p/1A1FLFfnbP/), [Max](https://www.facebook.com/share/p/1fEBx3BPGB/), [Jace](https://www.facebook.com/share/p/1JDVqZeL2G/), and Kai) and University friends ([Andrea](https://www.facebook.com/profile.php?id=61596268391355), Stephanie, Aldrin, and Joferson).
 
-Collabs and plotting are welcome. Hit me up on Discord.
+Collabs and plotting are welcome. Hit me up on [Discord](https://discord.com/users/1365861132799049728).
 
 ---
 
