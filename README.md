@@ -1,7 +1,7 @@
 <div align="center">
 
 # What's up, rockstar? Welcome to my world! <img src="https://raw.githubusercontent.com/bnjoexe/bnjoexe/main/assets/GIF_2.gif" width="55" />
-**@bnjoexe ;** hi, my name is Benjo. i use he/him pronouns, a '01 (March) liner, an isfj, and i'm from Manila, Philippines. i speak English and Filipino, and i'm a working student.
+**@bnjoexe** ; hi, Benjo here! from somewhere in Manila. studying IT and working on the side, depending on which responsibility is currently winning. usually around, occasionally functional.
 
 <div align="center">
   <img src="./assets/Photo_1.jpg" width="220" height="220" style="border-radius: 8px;" />
